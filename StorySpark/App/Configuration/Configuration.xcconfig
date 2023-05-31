@@ -1,0 +1,11 @@
+//
+//  Configuration.xcconfig
+//  StorySpark
+//
+//  Created by James Wolfe on 21/05/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+OPEN_AI_API_KEY = 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
